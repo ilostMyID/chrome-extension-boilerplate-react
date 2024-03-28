@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "5.0.4",
-  "description": "A chrome extension boilerplate built with React 18, Webpack 5, and Webpack Dev Server 4",
+  "name": "lyrics",
+  "version": "1.0.0",
+  "description": "This is my second chrome extension.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/ilostMyID/chrome-extension-boilerplate-react"
   },
   "scripts": {
     "build": "node utils/build.js",
